@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "exam bell sytem", "exam bell sytem\exam bell sytem.cproj", "{70413596-EE02-49C0-9A23-6C32538BFD54}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "I2C", "..\I2C\I2C\I2C.cproj", "{B77709AE-7C03-48A1-BACF-5F360886AEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70413596-EE02-49C0-9A23-6C32538BFD54}.Debug|AVR.ActiveCfg = Debug|AVR
+		{70413596-EE02-49C0-9A23-6C32538BFD54}.Debug|AVR.Build.0 = Debug|AVR
+		{70413596-EE02-49C0-9A23-6C32538BFD54}.Release|AVR.ActiveCfg = Release|AVR
+		{70413596-EE02-49C0-9A23-6C32538BFD54}.Release|AVR.Build.0 = Release|AVR
+		{B77709AE-7C03-48A1-BACF-5F360886AEC9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B77709AE-7C03-48A1-BACF-5F360886AEC9}.Debug|AVR.Build.0 = Debug|AVR
+		{B77709AE-7C03-48A1-BACF-5F360886AEC9}.Release|AVR.ActiveCfg = Release|AVR
+		{B77709AE-7C03-48A1-BACF-5F360886AEC9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
